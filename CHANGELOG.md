@@ -1,11 +1,6 @@
 # Change Log
 
-## CodeBase version: 2.0.0 / 2021-09-27
-### Improvements
+## [1.0.0] 2022-06-05
+### Initial Release
 
-- Dependencies update (all packages) 
-  - Flask==2.0.1 (latest stable version)
-- Improved Files organization
-  - UI Templates moved to `home` folder
-- Docker Scripts Update
-
+- UI version: `v1.0.0`
