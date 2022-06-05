@@ -9,8 +9,8 @@ WrapPixel's Flexy Lite is one of the best Bootstrap templates for admin dashboar
 
 > Links
 
-- Jinja Material Lite](https://appseed.us/product/flexy-bootstrap/flask/)
-- [LIVE Demo](https://jinja-template-material-lite.appseed.us/) - Starter in action
+- 👉 [Jinja Flexy Litee](#) - product page (soon)
+- 👉 [Jinja Flexy Lite](flask-flexy-bootstrap.appseed-srv1.com) - LIVE deployment
 
 <br />
 
